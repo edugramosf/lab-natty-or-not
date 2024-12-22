@@ -1,4 +1,4 @@
-```markdown
+
 ## A Criatividade e a Inteligência Artificial
 ## Como a evolução da IA está redefinindo os conceitos de criação e inovação.
 
@@ -50,7 +50,7 @@ Leia o e-book aqui.
 ## 💭 Reflexão
 ## O Futuro das IAs Generativas
 Com o avanço contínuo da tecnologia, as IAs Generativas estão se consolidando como ferramentas essenciais para aprimorar a criatividade humana. Essas tecnologias têm o potencial de romper barreiras culturais, possibilitando a criação de novos estilos de arte, música e literatura. À medida que a colaboração entre humanos e máquinas se intensifica, o futuro promete produções mais inovadoras, sustentáveis e eficazes, contribuindo significativamente para o desenvolvimento e a prosperidade da humanidade.
-```
+
 
 ## Links Interessantes
 
