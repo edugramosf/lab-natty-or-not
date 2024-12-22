@@ -24,27 +24,27 @@ O texto é estruturado para mostrar não apenas os benefícios, mas também os d
 
 **Estrutura do E-book:**
 
-**Introdução ao Tema**
+<u>**Introdução ao Tema**</u>
 
 Apresentação do conceito de criatividade e do impacto da inteligência artificial na redefinição de práticas criativas.
 
-**O que é Criatividade?**
+<u>**O que é Criatividade?**</u>
 
 Discussão sobre o significado da criatividade, sua relação com a subjetividade humana e como a IA desafia essa exclusividade.
 
-**Revolução Criativa da IA**
+<u>**Revolução Criativa da IA**</u>
 
 Exemplos de produções criativas realizadas com IA, incluindo textos literários, obras visuais e composições musicais.
 
-**IA: Substituição ou Colaboração?**
+<u>**IA: Substituição ou Colaboração?**</u>
 
 Reflexões sobre como a IA complementa, em vez de substituir, a criatividade humana, promovendo uma parceria única.
 
-**O Futuro da Criatividade**
+<u>**O Futuro da Criatividade**</u>
 
 Análise do impacto a longo prazo da IA na criatividade, incluindo implicações éticas e possibilidades futuras.
 
-**Conclusão**
+<u>**Conclusão**</u>
 
 Encerramento com uma visão positiva sobre a colaboração entre humanos e máquinas e o potencial transformador dessa relação.
 
